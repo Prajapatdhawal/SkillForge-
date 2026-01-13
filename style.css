@@ -844,7 +844,7 @@ hr{
     font-weight: 400;
     cursor: pointer;
 }
-.sub-footer span{
+.sub-footer h4{
     font-size: 0.8rem;
     color: #777590  ;
 }
@@ -852,6 +852,9 @@ hr{
     padding-top: 2rem;
     text-align: justify;
     color: #777590;
+}
+.sub-footer span{
+    color: #F09F3D;
 }
 .sub-footer h3{
     color: #e5e7ea;
@@ -1122,7 +1125,9 @@ hr{
         border-right: none;
         border-bottom: 1px solid #b8b5d628;
         padding-bottom: 1rem;
+        padding-right: 0.2rem;
     }
+
     .b-n{
         border-bottom: none;
     }
