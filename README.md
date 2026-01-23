@@ -53,7 +53,7 @@ https://skillforge-edu.netlify.app/
 📂 How to Run Locally
 git clone https://github.com/Prajapatdhawal/skillforge-.git
 cd skillforge
-open index.html
+open home.html
 
 🙌 Author
 
